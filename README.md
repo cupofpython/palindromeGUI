@@ -10,5 +10,5 @@ This is a very basic GUI created with Java Swing in NetBeans. Nothing fancy, but
 
 Enjoy playing with my palindrome GUI! #baby'sfirstGUI :baby:
 
-> To run the project from the command line, go to the dist folder and type the following:
-> java -jar "PalindromeCheck.jar" 
+To run the project from the command line, go to the dist folder and type the following:
+**java -jar PalindromeCheck.jar**
